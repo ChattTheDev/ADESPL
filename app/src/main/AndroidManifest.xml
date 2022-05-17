@@ -14,13 +14,16 @@
         android:theme="@style/Theme.ADESPL"
         tools:targetApi="31">
         <activity
-            android:name=".Main_Dashboard"
+            android:name=".DashBoard"
             android:exported="false" />
         <activity
-            android:name=".OnBoarding_Screen"
+            android:name=".Activities.Main_Dashboard"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Activities.OnBoarding_Screen"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

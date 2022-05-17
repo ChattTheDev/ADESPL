@@ -1,4 +1,4 @@
-package com.adorable.adespl;
+package com.adorable.adespl.Adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,6 +9,9 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.viewpager.widget.PagerAdapter;
+
+import com.adorable.adespl.Helpers.ScreenItem;
+import com.adorable.adespl.R;
 
 import java.util.List;
 

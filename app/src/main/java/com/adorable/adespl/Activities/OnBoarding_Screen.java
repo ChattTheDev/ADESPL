@@ -1,4 +1,4 @@
-package com.adorable.adespl;
+package com.adorable.adespl.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
@@ -8,12 +8,14 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
-import android.view.WindowManager;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.adorable.adespl.Adapters.IntroViewPagerAdapter;
+import com.adorable.adespl.R;
+import com.adorable.adespl.Helpers.ScreenItem;
 import com.google.android.material.tabs.TabLayout;
 
 import java.util.ArrayList;

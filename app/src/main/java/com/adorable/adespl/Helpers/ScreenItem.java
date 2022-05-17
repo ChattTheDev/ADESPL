@@ -1,4 +1,4 @@
-package com.adorable.adespl;
+package com.adorable.adespl.Helpers;
 
 public class ScreenItem {
 

@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/bottomback.xml" value="0.247" />
+        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/ic_wave_dashboard.xml" value="0.247" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/indicator_default.xml" value="0.247" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/indicator_selected.xml" value="0.247" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/indicator_selector.xml" value="0.247" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/font/montserrat_alternates.xml" value="0.2574324324324324" />
+        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout-ldltr/activity_dash_board.xml" value="0.23716216216216215" />
+        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_dash_board.xml" value="0.23783783783783785" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_main.xml" value="0.23783783783783785" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_main_dashboard.xml" value="0.23783783783783785" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_on_boarding_screen.xml" value="0.23783783783783785" />
