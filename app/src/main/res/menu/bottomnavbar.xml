@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/ic_baseline_person"
+            android:title="Personal Loan"
+            android:iconTint="#0d64a6"/>
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/ic_baseline_business"
+            android:title="Business Loan" />
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/ic_baseline_home"
+            android:title="Home Loan" />
+        <item
+            android:id="@+id/item4"
+            android:icon="@drawable/ic_baseline_directions_car"
+            android:title="Car Loan" />
+        <item
+            android:id="@+id/item5"
+            android:icon="@drawable/ic_baseline_account_balance"
+            android:title="LAP Loan" />
+
+    </group>
+
+    <group
+        android:id="@+id/group2">
+
+        <item
+            android:id="@+id/loandetails"
+            android:icon="@drawable/ic_baseline_check_circle"
+            android:title="Check Your Loan Details" />
+
+
+    </group>
+    <group
+        android:id="@+id/group3">
+
+        <item
+            android:id="@+id/rateus"
+            android:icon="@drawable/ic_baseline_star_rate"
+            android:title="Rate Us on PlayStore" />
+        <item
+            android:id="@+id/contactus"
+            android:icon="@drawable/ic_baseline_contact_support"
+            android:title="Contact Us" />
+
+
+    </group>
+
+</menu>

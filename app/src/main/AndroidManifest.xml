@@ -14,7 +14,10 @@
         android:theme="@style/Theme.ADESPL"
         tools:targetApi="31">
         <activity
-            android:name=".DashBoard"
+            android:name=".Activities.Loan_Items"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.Insurance_Items"
             android:exported="false" />
         <activity
             android:name=".Activities.Main_Dashboard"
