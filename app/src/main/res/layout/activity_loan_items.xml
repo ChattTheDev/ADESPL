@@ -77,6 +77,7 @@
             android:layout_marginEnd="35dp"
             android:layout_marginTop="10dp"
             android:textStyle="bold"
+            android:id="@+id/ploan"
             android:textColor="@color/black"
             android:text="Personal Loan" />
 
@@ -89,6 +90,7 @@
             android:layout_marginTop="10dp"
             android:text="Business Loan"
             android:textStyle="bold"
+            android:id="@+id/bloan"
             android:textColor="@color/black" />
 
         <com.google.android.material.button.MaterialButton
@@ -99,6 +101,7 @@
             android:layout_marginEnd="35dp"
             android:layout_marginTop="10dp"
             android:text="Home Loan"
+            android:id="@+id/hloan"
             android:textStyle="bold"
             android:textColor="@color/black" />
         <com.google.android.material.button.MaterialButton
@@ -110,6 +113,7 @@
             android:layout_marginTop="10dp"
             android:text="Car Loan"
             android:textStyle="bold"
+            android:id="@+id/cloan"
             android:textColor="@color/black" />
         <com.google.android.material.button.MaterialButton
             android:layout_width="match_parent"
@@ -120,6 +124,7 @@
             android:layout_marginTop="10dp"
             android:text="LAP or MOrtgage loan"
             android:textStyle="bold"
+            android:id="@+id/lloan"
             android:textColor="@color/black" />
 
     </LinearLayout>

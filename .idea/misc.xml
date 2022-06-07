@@ -4,20 +4,28 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/bottomback.xml" value="0.247" />
+        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/edttxtback.xml" value="0.247" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/ic_baseline_menu.xml" value="0.247" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/ic_baseline_person.xml" value="0.247" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/ic_wave_dashboard.xml" value="0.247" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/indicator_default.xml" value="0.247" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/indicator_selected.xml" value="0.247" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/indicator_selector.xml" value="0.247" />
+        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/drawable/llbottomsheet.xml" value="0.247" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/font/montserrat_alternates.xml" value="0.2574324324324324" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout-ldltr/activity_dash_board.xml" value="0.23716216216216215" />
+        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_business_loan.xml" value="0.23783783783783785" />
+        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_car_loan.xml" value="0.23783783783783785" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_dash_board.xml" value="0.23783783783783785" />
+        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_home_loan.xml" value="0.23783783783783785" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_insurance_items.xml" value="0.23783783783783785" />
-        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_loan_items.xml" value="0.1" />
+        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_laploan.xml" value="0.23783783783783785" />
+        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_loan_items.xml" value="0.22" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_main.xml" value="0.23783783783783785" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_main_dashboard.xml" value="0.25" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_on_boarding_screen.xml" value="0.23783783783783785" />
+        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/activity_personal_loan.xml" value="0.23783783783783785" />
+        <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/bottomsheetlayout.xml" value="0.23716216216216215" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/contain_main.xml" value="0.23783783783783785" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/layout_screen.xml" value="0.23783783783783785" />
         <entry key="..\:/Android Projects/Adorable Economics Solution Private Limited/app/src/main/res/layout/nav_header_main.xml" value="0.23783783783783785" />
